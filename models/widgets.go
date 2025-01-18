@@ -1,4 +1,4 @@
-package structures
+package models
 
 type Widget struct {
 	ID       string            `json:"id"`
