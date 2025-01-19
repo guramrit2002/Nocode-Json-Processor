@@ -56,5 +56,5 @@ func main() {
 	})
 
 	// Run the server
-	r.Run() // Default: localhost:8080
+	r.Run("8000") // Default: localhost:8080
 }
