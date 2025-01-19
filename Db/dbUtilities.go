@@ -3,7 +3,6 @@ package Db
 import (
 	"github.com/guramrit2002/Nocode-Json-Processor.git/constants"
 	"github.com/jackc/pgx/v5"
-	"github.com/joho/godotenv"
 
 	"context"
 	"log"
